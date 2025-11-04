@@ -1,0 +1,42 @@
+ccc_network:
+  - house_name: "House of Firestarters"
+    leader: "@Kim Nicole"
+    members:
+      - "@Kent Bert Pulmones"
+      - "Kessie Seria"
+      - "Junril Agerto"
+      - "@Mariel Flores"
+      - "April Pilarca"
+    status: "Active"
+
+  - house_name: "House of Wonders"
+    leader: "Angel Moreno"
+    members:
+      - "Shiela Melano"
+      - "April Segre"
+    status: "Active"
+
+  - house_name: "House of Revival"
+    leader: "Ashley"
+    members:
+      - "Khrystle"
+    status: "Active"
+
+  - house_name: "House of Ascend"
+    leader: "Lyca Berdaga"
+    members:
+      - "Nissan Agripo"
+      - "Faith Sagsago"
+      - "Kate Toledo"
+    status: "Active"
+
+  - house_name: "House of Ground Breakers"
+    leader: "Arjay"
+    members:
+      - "Winster"
+    status: "Active"
+
+  - house_name: "House of Miracles"
+    leader: "Lyn Lopez"
+    members: []
+    status: "Active"
