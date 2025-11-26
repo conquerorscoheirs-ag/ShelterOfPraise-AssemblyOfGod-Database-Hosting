@@ -1,10 +1,10 @@
 import os
 
 # ✅ 1. SET YOUR FOLDER PATH HERE
-folder_path = r"C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ShelterOfPraise\Database\ShelterOfPraise-AssemblyOfGod-Database-Hosting\Public\photos\events\2025\grandFellowship2025\part_3"
+folder_path = r"C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ShelterOfPraise\Database\ShelterOfPraise-AssemblyOfGod-Database-Hosting\Public\photos\encounter-batch\batch-5-2025\Encounter\Day2"
 
 # ✅ 2. SET DESIRED NEW NAME FORMAT HERE
-base_name = "grandFellowship_part3_2025_"
+base_name = "encounterBatchFive_day2_2025_"
 
 # Get all files in folder
 files = os.listdir(folder_path)

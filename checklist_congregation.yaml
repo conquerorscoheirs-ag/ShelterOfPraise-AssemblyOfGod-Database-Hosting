@@ -2,7 +2,7 @@ meta:
   church: Shelter of Praise | Assembly of God
   house: Ascend House
   created_by: CCC Network Admin Team
-  date_created: '2025-11-04'
+  date_created: '2025-11-26'
   purpose: To track congregation members' appointment, participation, and inclusion status
 status_legend:
   ✅: Completed / Included
@@ -27,7 +27,36 @@ members:
       - A_S_7.jpg
       - A_S_8.jpg
       - A_S_9.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: AgotJhieFantilaga
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 9 image(s) found.
+    images:
+      - A_J_F_1.jpg
+      - A_J_F_2.jpg
+      - A_J_F_3.jpg
+      - A_J_F_4.jpg
+      - A_J_F_5.jpg
+      - A_J_F_6.jpg
+      - A_J_F_7.jpg
+      - A_J_F_8.jpg
+      - A_J_F_9.jpg
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: AilenVillagracia
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 4 image(s) found.
+    images:
+      - A_V_1.jpg
+      - A_V_2.jpg
+      - A_V_3.jpg
+      - A_V_4.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: AlaysaFantilaga
     role: Undefined
@@ -36,7 +65,7 @@ members:
     remarks: Auto-added from folder scan. 1 image(s) found.
     images:
       - A_F_1.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: AlbertQuiranteElejino
     role: Undefined
@@ -47,7 +76,7 @@ members:
       - A_Q_E_1.jpg
       - A_Q_E_2.jpg
       - A_Q_E_3.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: AngelMoreno
     role: Undefined
@@ -60,7 +89,7 @@ members:
       - A_M_3.jpg
       - A_M_4.jpg
       - A_M_5.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: AprilSegre
     role: Undefined
@@ -70,7 +99,7 @@ members:
     images:
       - A_S_1.jpg
       - A_S_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: AshleyEntrina
     role: Undefined
@@ -85,7 +114,7 @@ members:
       - A_M_E_5.jpg
       - A_M_E_6.jpg
       - A_M_E_7.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: CarlaPulmones
     role: Undefined
@@ -96,7 +125,7 @@ members:
       - C_S_P_1.jpg
       - C_S_P_2.jpg
       - C_S_P_3.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: CarmenSagsago
     role: Undefined
@@ -106,7 +135,20 @@ members:
     images:
       - C_S_1.jpg
       - C_S_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: CelfaDegorio
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 5 image(s) found.
+    images:
+      - C_D_1.jpg
+      - C_D_2.jpg
+      - C_D_3.jpg
+      - C_D_4.jpg
+      - C_D_5.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: ChejayBalasa
     role: Undefined
@@ -115,7 +157,7 @@ members:
     remarks: Auto-added from folder scan. 1 image(s) found.
     images:
       - C_B_1.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: CherryMaePerote
     role: Undefined
@@ -127,7 +169,20 @@ members:
       - C_M_F_P_2.jpg
       - C_M_F_P_3.jpg
       - C_M_F_P_4.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: ChristeneFaithSagsago
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 5 image(s) found.
+    images:
+      - C_F_S_1.jpg
+      - C_F_S_2.jpg
+      - C_F_S_3.jpg
+      - C_F_S_4.jpg
+      - C_F_S_5.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: ChristineMerraBalasa
     role: Undefined
@@ -146,7 +201,7 @@ members:
       - C_M_B_7.jpg
       - C_M_B_8.jpg
       - C_M_B_9.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: DivmerEsperaldo
     role: Undefined
@@ -155,7 +210,7 @@ members:
     remarks: Auto-added from folder scan. 1 image(s) found.
     images:
       - D_J_L_E_1.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: DrexlynBalasa
     role: Undefined
@@ -165,7 +220,17 @@ members:
     images:
       - D_F_B_1.jpg
       - D_F_B_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: EdrianDeparon
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 2 image(s) found.
+    images:
+      - E_D_1.jpg
+      - E_D_2.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: EunelBolonos
     role: Undefined
@@ -177,7 +242,21 @@ members:
       - E_D_B_2.jpg
       - E_D_B_3.jpg
       - E_D_B_4.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: EvelynToledo
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 6 image(s) found.
+    images:
+      - E_V_1.jpg
+      - E_V_2.jpg
+      - E_V_3.jpg
+      - E_V_4.jpg
+      - E_V_5.jpg
+      - E_V_6.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: GelloAzucena
     role: Undefined
@@ -187,7 +266,7 @@ members:
     images:
       - G_A_1.jpg
       - G_A_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: JannaDalagan
     role: Undefined
@@ -204,7 +283,7 @@ members:
       - J_D_7.jpg
       - J_D_8.jpg
       - J_D_9.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: JednazLonestamp
     role: Undefined
@@ -214,7 +293,7 @@ members:
     images:
       - J_L_1.jpg
       - J_L_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: JeshaiaFantilaga
     role: Undefined
@@ -226,7 +305,7 @@ members:
       - FB_IMG_1761039137190.jpg
       - FB_IMG_1761039143778.jpg
       - FB_IMG_1761039148249.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: JhericoBalasa
     role: Undefined
@@ -238,7 +317,7 @@ members:
       - J_J_B_2.jpg
       - J_J_B_3.jpg
       - J_J_B_4.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: JhonLeeTapio
     role: Undefined
@@ -247,7 +326,7 @@ members:
     remarks: Auto-added from folder scan. 1 image(s) found.
     images:
       - J_L_T_1.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: JohnBenedeckLiguan
     role: Undefined
@@ -259,7 +338,7 @@ members:
       - J_B_L_2.jpg
       - J_B_L_3.jpg
       - J_B_L_4.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: JohnWeinQuitor
     role: Undefined
@@ -279,7 +358,31 @@ members:
       - Wein_7.jpg
       - Wein_8.jpg
       - Wein_9.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: JoyFrondozo
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 6 image(s) found.
+    images:
+      - J_F_1.jpg
+      - J_F_2.jpg
+      - J_F_4.jpg
+      - J_F_5.jpg
+      - J_F_6.jpg
+      - J_F_7.jpg
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: JunrelAgerto
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 2 image(s) found.
+    images:
+      - J_A_1.jpg
+      - J_A_2.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: KateToledo
     role: Undefined
@@ -288,7 +391,7 @@ members:
     remarks: Auto-added from folder scan. 1 image(s) found.
     images:
       - K_T_1.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: KayeTrenellia
     role: Undefined
@@ -302,7 +405,7 @@ members:
       - K_T_4.jpg
       - K_T_5.jpg
       - K_T_6.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: KcSeria
     role: Undefined
@@ -314,7 +417,7 @@ members:
       - KC_S_2.jpg
       - KC_S_3.jpg
       - KC_S_4.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: KhrystleClaireDeasis
     role: Undefined
@@ -333,7 +436,7 @@ members:
       - K_C_D_7.jpg
       - K_C_D_8.jpg
       - K_C_D_9.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: KimNicole
     role: Undefined
@@ -346,7 +449,7 @@ members:
       - K_N_S_3.jpg
       - K_N_S_4.jpg
       - K_N_S_5.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: KralleMaraveles
     role: Undefined
@@ -357,7 +460,20 @@ members:
       - M_K_M_1.jpg
       - M_K_M_2.jpg
       - M_K_M_3.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: KristineDejan
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 5 image(s) found.
+    images:
+      - K_D_1.jpg
+      - K_D_2.jpg
+      - K_D_3.jpg
+      - K_D_4.jpg
+      - K_D_5.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: LykaRoseBerdaga
     role: Undefined
@@ -367,7 +483,32 @@ members:
     images:
       - L_R_B_1.jpg
       - L_R_B_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: MJolinePadsing
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 3 image(s) found.
+    images:
+      - M_J_P_1.jpg
+      - M_J_P_2.jpg
+      - M_J_P_3.jpg
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: MaricelTrenilla
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 6 image(s) found.
+    images:
+      - M_T_1.jpg
+      - M_T_2.jpg
+      - M_T_3.jpg
+      - M_T_4.jpg
+      - M_T_5.jpg
+      - M_T_6.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: MarielFlores
     role: Undefined
@@ -384,7 +525,7 @@ members:
       - M_T_7.jpg
       - M_T_8.jpg
       - M_T_9.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: MarivicToledo
     role: Undefined
@@ -395,7 +536,7 @@ members:
       - M_T_1.jpg
       - M_T_2.jpg
       - M_T_3.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: MarkStephenFrondozo
     role: Undefined
@@ -414,7 +555,20 @@ members:
       - mark_6.jpg
       - mark_7.jpg
       - mark_8.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: MerfredaTrenilla
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 5 image(s) found.
+    images:
+      - M_F_1.jpg
+      - M_F_2.jpg
+      - M_F_3.jpg
+      - M_F_4.jpg
+      - M_F_5.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: NoraBalasa
     role: Undefined
@@ -427,7 +581,7 @@ members:
       - N_B_3.jpg
       - N_B_4.jpg
       - N_B_5.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: PreciousLoloy
     role: Undefined
@@ -438,7 +592,7 @@ members:
       - P_L_1.jpg
       - P_L_2.jpg
       - P_L_3.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: RexterGabutin
     role: Undefined
@@ -449,7 +603,7 @@ members:
       - R_C_G_1.jpg
       - R_C_G_2.jpg
       - R_C_G_3.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: ShamelAgua
     role: Undefined
@@ -482,7 +636,18 @@ members:
       - S_N_A_7.jpg
       - S_N_A_8.jpg
       - S_N_A_9.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
+  
+- name: SheilaMarieAraujo
+    role: Undefined
+    contact: N/A
+    status: ❌
+    remarks: Auto-added from folder scan. 3 image(s) found.
+    images:
+      - S_M_A_1.jpg
+      - S_M_A_2.jpg
+      - S_M_A_3.jpg
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: ShelaMelano
     role: Undefined
@@ -491,7 +656,7 @@ members:
     remarks: Auto-added from folder scan. 1 image(s) found.
     images:
       - S_M_1.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: TrishaMaravelles
     role: Undefined
@@ -500,7 +665,7 @@ members:
     remarks: Auto-added from folder scan. 1 image(s) found.
     images:
       - T_M_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: WhedylynBalasa
     role: Undefined
@@ -510,28 +675,31 @@ members:
     images:
       - W_B_1.jpg
       - W_B_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+    added_at: '2025-11-26 22:59:08.695386'
   
 - name: WilmerBalasa
     role: Undefined
     contact: N/A
     status: ❌
-    remarks: Auto-added from folder scan. 2 image(s) found.
+    remarks: Auto-added from folder scan. 3 image(s) found.
     images:
       - W_B_1.jpg
       - W_B_2.jpg
-    added_at: '2025-11-04 17:44:16.505435'
+      - W_B_3.jpg
+    added_at: '2025-11-26 22:59:08.695386'
 summary:
-  total_members: 40
+  total_members: 53
   completed: 0
   ongoing: 0
-  pending: 40
-  updated_at: '2025-11-04 17:44:16.505435'
+  pending: 53
+  updated_at: '2025-11-26 22:59:08.695386'
 update_log:
-  - timestamp: '2025-11-04 17:44:16.505435'
-    scanned_folders: 40
+  - timestamp: '2025-11-26 22:59:08.695386'
+    scanned_folders: 53
     added_members:
       - AbygailSaldo
+      - AgotJhieFantilaga
+      - AilenVillagracia
       - AlaysaFantilaga
       - AlbertQuiranteElejino
       - AngelMoreno
@@ -539,12 +707,16 @@ update_log:
       - AshleyEntrina
       - CarlaPulmones
       - CarmenSagsago
+      - CelfaDegorio
       - ChejayBalasa
       - CherryMaePerote
+      - ChristeneFaithSagsago
       - ChristineMerraBalasa
       - DivmerEsperaldo
       - DrexlynBalasa
+      - EdrianDeparon
       - EunelBolonos
+      - EvelynToledo
       - GelloAzucena
       - JannaDalagan
       - JednazLonestamp
@@ -553,22 +725,29 @@ update_log:
       - JhonLeeTapio
       - JohnBenedeckLiguan
       - JohnWeinQuitor
+      - JoyFrondozo
+      - JunrelAgerto
       - KateToledo
       - KayeTrenellia
       - KcSeria
       - KhrystleClaireDeasis
       - KimNicole
       - KralleMaraveles
+      - KristineDejan
       - LykaRoseBerdaga
+      - MJolinePadsing
+      - MaricelTrenilla
       - MarielFlores
       - MarivicToledo
       - MarkStephenFrondozo
+      - MerfredaTrenilla
       - NoraBalasa
       - PreciousLoloy
       - RexterGabutin
       - ShamelAgua
+      - SheilaMarieAraujo
       - ShelaMelano
       - TrishaMaravelles
       - WhedylynBalasa
       - WilmerBalasa
-    note: 'Auto-scan completed: 40 folders scanned, 40 new members added.'
+    note: 'Auto-scan completed: 53 folders scanned, 53 new members added.'
